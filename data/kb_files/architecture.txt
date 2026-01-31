@@ -1,0 +1,10 @@
+The Eiffel Tower is located in Paris.
+The Colosseum is located in Rome.
+The Great Wall of China was built over many centuries.
+The Taj Mahal is located in Agra, India.
+The Statue of Liberty is located in New York Harbor.
+The Sydney Opera House is located in Sydney.
+The Golden Gate Bridge spans the Golden Gate strait.
+The Pyramids of Giza are located near Cairo, Egypt.
+The Parthenon is located in Athens, Greece.
+The Burj Khalifa is located in Dubai.

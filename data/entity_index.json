@@ -1,0 +1,661 @@
+{
+  "architecture.txt::0": [
+    "Agra",
+    "Athens",
+    "Cairo",
+    "China",
+    "Dubai",
+    "Egypt",
+    "Giza",
+    "Golden Gate",
+    "Greece",
+    "India",
+    "Liberty",
+    "New York Harbor",
+    "Paris",
+    "Rome",
+    "Sydney",
+    "The Burj Khalifa",
+    "The Colosseum",
+    "The Eiffel Tower",
+    "The Golden Gate Bridge",
+    "The Great Wall",
+    "The Parthenon",
+    "The Pyramids",
+    "The Statue",
+    "The Sydney Opera House",
+    "The Taj Mahal"
+  ],
+  "art_culture.txt::0": [
+    "Art",
+    "Florence",
+    "London",
+    "Modern Art",
+    "Mona Lisa",
+    "New York",
+    "Paris",
+    "Renaissance",
+    "The Louvre Museum",
+    "The Metropolitan Museum",
+    "The Museum",
+    "The Tate Modern",
+    "The Uffizi Gallery",
+    "The Venice Biennale"
+  ],
+  "art_culture.txt::1": [
+    "Art",
+    "Bilbao",
+    "European",
+    "Frank Gehry",
+    "London",
+    "Madrid",
+    "Metropolitan Museum",
+    "New York",
+    "Saint Petersburg",
+    "The British Museum",
+    "The Guggenheim Museum",
+    "The Hermitage Museum",
+    "The Prado Museum"
+  ],
+  "astronomy.txt::0": [
+    "Earth",
+    "Great Red Spot",
+    "Jupiter",
+    "Mars",
+    "Mercury",
+    "Olympus Mons",
+    "Saturn",
+    "Solar System",
+    "Sun",
+    "The Sun",
+    "Venus"
+  ],
+  "astronomy.txt::1": [
+    "Great Red Spot",
+    "Neptune",
+    "Saturn",
+    "Solar System",
+    "The Milky Way",
+    "Uranus"
+  ],
+  "biographies.txt::0": [
+    "Ada Lovelace",
+    "Albert Einstein",
+    "Alexander Fleming",
+    "Charles Darwin",
+    "Galileo Galilei",
+    "Isaac Newton",
+    "Louis Pasteur",
+    "Marie Curie",
+    "Nikola Tesla",
+    "Thomas Edison"
+  ],
+  "biographies.txt::1": [
+    "Alexander Fleming",
+    "Thomas Edison"
+  ],
+  "biology.txt::0": [
+    "Cells",
+    "DNA",
+    "Mitochondria",
+    "Photosynthesis",
+    "Proteins",
+    "Viruses"
+  ],
+  "biology.txt::1": [
+    "Bacteria",
+    "Evolution",
+    "Viruses"
+  ],
+  "chemistry.txt::0": [
+    "Au",
+    "Carbon",
+    "Fe",
+    "Gold",
+    "Helium",
+    "Hydrogen",
+    "Iron",
+    "Oxygen",
+    "Sodium",
+    "Water"
+  ],
+  "companies.txt::0": [
+    "Amazon",
+    "Apple",
+    "Bill Gates",
+    "California",
+    "Cupertino",
+    "Google",
+    "Larry Page",
+    "Marc Tarpenning",
+    "Martin Eberhard",
+    "Microsoft",
+    "Paul Allen",
+    "Seattle",
+    "Sergey Brin",
+    "Tesla",
+    "Washington"
+  ],
+  "computing.txt::0": [
+    "CPU",
+    "Encryption",
+    "HTTP",
+    "IP",
+    "Internet",
+    "RAM",
+    "TCP"
+  ],
+  "computing.txt::1": [
+    "Version"
+  ],
+  "earth_science.txt::0": [
+    "Earth",
+    "Earthquakes",
+    "Moon",
+    "Oceans",
+    "Sun",
+    "The Earth",
+    "Volcanoes"
+  ],
+  "earth_science.txt::1": [
+    "Earth"
+  ],
+  "economics.txt::0": [
+    "GDP",
+    "Gross",
+    "Inflation",
+    "Supply",
+    "Unemployment"
+  ],
+  "economics.txt::1": [
+    "Exchange",
+    "Fiscal",
+    "Productivity",
+    "Trade"
+  ],
+  "economics_plus.txt::0": [
+    "Deflation",
+    "Inflation",
+    "Interest"
+  ],
+  "economics_plus.txt::1": [],
+  "education_energy.txt::0": [
+    "Fossil",
+    "Higher",
+    "Primary",
+    "Renewable",
+    "Secondary",
+    "Solar",
+    "Wind"
+  ],
+  "education_energy.txt::1": [
+    "Battery",
+    "Energy",
+    "Hydroelectric",
+    "Wind"
+  ],
+  "environment.txt::0": [
+    "Air",
+    "Biodiversity",
+    "Climate",
+    "Conservation",
+    "Deforestation",
+    "Greenhouse",
+    "Recycling",
+    "Renewable",
+    "Water",
+    "Weather"
+  ],
+  "explorers.txt::0": [
+    "Antarctica",
+    "Atlantic",
+    "Christopher Columbus",
+    "Earth",
+    "Ernest Shackleton",
+    "Ferdinand Magellan",
+    "James Cook",
+    "Marco Polo",
+    "Pacific Ocean",
+    "Roald Amundsen",
+    "Silk Road",
+    "South Pole",
+    "Zheng He"
+  ],
+  "explorers.txt::1": [
+    "Africa",
+    "Amerigo Vespucci",
+    "Antarctica",
+    "Asia",
+    "Clark",
+    "Europe",
+    "Ibn Battuta",
+    "Lewis",
+    "Louisiana Purchase",
+    "Ming",
+    "South America",
+    "Zheng He"
+  ],
+  "finance_food.txt::0": [
+    "Compound",
+    "Diversification",
+    "Interest",
+    "Protein",
+    "Whole"
+  ],
+  "finance_food.txt::1": [
+    "Dietary",
+    "Protein",
+    "Vitamins"
+  ],
+  "food_culture.txt::0": [
+    "Camellia",
+    "Cheese",
+    "Chocolate",
+    "Coffee",
+    "Fermentation",
+    "Italian",
+    "Japanese",
+    "Mediterranean",
+    "Olive",
+    "Pasta",
+    "Rice",
+    "Sushi",
+    "Tea",
+    "Wheat"
+  ],
+  "geography.txt::0": [
+    "Africa",
+    "Berlin",
+    "France",
+    "Germany",
+    "Paris",
+    "The Nile"
+  ],
+  "geography_plus.txt::0": [
+    "Atlantic Ocean",
+    "Australia",
+    "Earth",
+    "Gibraltar",
+    "Indian",
+    "Mount Everest",
+    "Strait",
+    "The Amazon River",
+    "The Andes",
+    "The Great Barrier Reef",
+    "The Himalayas",
+    "The Mediterranean Sea",
+    "The Pacific Ocean",
+    "The Sahara",
+    "Tibetan"
+  ],
+  "geography_plus.txt::1": [
+    "Black Sea",
+    "European",
+    "Himalayas",
+    "Iceland",
+    "Indian",
+    "North Atlantic Ocean",
+    "The Danube River",
+    "Tibetan Plateau"
+  ],
+  "governments.txt::0": [],
+  "governments.txt::1": [
+    "Sovereignty"
+  ],
+  "healthcare.txt::0": [
+    "Antibiotics",
+    "Blood",
+    "Vaccines"
+  ],
+  "history.txt::0": [
+    "II",
+    "Independence",
+    "Moon",
+    "The Apollo",
+    "The Declaration",
+    "World War"
+  ],
+  "infrastructure.txt::0": [
+    "Airports",
+    "Bridges",
+    "Highways",
+    "Ports",
+    "Power",
+    "Railways",
+    "Telecommunications",
+    "Water"
+  ],
+  "infrastructure.txt::1": [
+    "Public",
+    "Telecommunications",
+    "Urban"
+  ],
+  "languages.txt::0": [
+    "Arabic",
+    "Cyrillic",
+    "England",
+    "English",
+    "French",
+    "Hindi",
+    "India",
+    "Japanese",
+    "Latin America",
+    "Mandarin Chinese",
+    "Romance",
+    "Russian",
+    "Spain",
+    "Spanish",
+    "Swa",
+    "West Germanic"
+  ],
+  "languages.txt::1": [
+    "Bantu",
+    "Central Europe",
+    "Cyrillic",
+    "East Africa",
+    "German",
+    "Japanese",
+    "Swahili",
+    "West Germanic"
+  ],
+  "law_medicine.txt::0": [
+    "Antibiotics",
+    "Criminal",
+    "Tort",
+    "Vaccines"
+  ],
+  "law_medicine.txt::1": [
+    "Antibiotics"
+  ],
+  "literature_media.txt::0": [
+    "Animal Farm",
+    "Dick",
+    "Documentary",
+    "George Orwell",
+    "Hamlet",
+    "Herman Melville",
+    "Homer",
+    "Jane Austen",
+    "Macbeth",
+    "Moby",
+    "Newspapers",
+    "Prejudice",
+    "Pride",
+    "Radio",
+    "Television",
+    "The Iliad",
+    "William Shakespeare"
+  ],
+  "literature_media.txt::1": [
+    "Documentary"
+  ],
+  "mathematics.txt::0": [
+    "Euclidean",
+    "Pi",
+    "The Pythagorean",
+    "Zero"
+  ],
+  "modern_countries.txt::0": [
+    "Australia",
+    "Beijing",
+    "Bloemfontein",
+    "Brasilia",
+    "Brazil",
+    "Canada",
+    "Canberra",
+    "Cape Town",
+    "China",
+    "India",
+    "Italy",
+    "Japan",
+    "Mexico",
+    "Mexico City",
+    "New Delhi",
+    "Ottawa",
+    "Pretoria",
+    "Rome",
+    "South Africa",
+    "The United States",
+    "Tokyo",
+    "Washington"
+  ],
+  "music_oceans.txt::0": [
+    "Africa",
+    "Americas",
+    "Antarctica",
+    "Asia",
+    "Australia",
+    "Classical",
+    "Europe",
+    "Jazz",
+    "The Arctic",
+    "The Atlantic Ocean",
+    "The Indian Ocean",
+    "The Southern Ocean"
+  ],
+  "music_oceans.txt::1": [
+    "Antarctica",
+    "Asia",
+    "Australia",
+    "Moon",
+    "Sun",
+    "The Arctic Ocean",
+    "The Southern Ocean",
+    "Tides"
+  ],
+  "organizations.txt::0": [
+    "Europe",
+    "NASA",
+    "The European Union",
+    "The Red Cross",
+    "The United Nations",
+    "The World Health Organization",
+    "United Nations",
+    "United States"
+  ],
+  "people.txt::0": [
+    "Ada Lovelace",
+    "Alan Turing",
+    "Chemistry",
+    "Katherine Johnson",
+    "Lee",
+    "Marie Curie",
+    "NASA",
+    "Nobel Prizes",
+    "Physics",
+    "Tim Berners",
+    "Turing Test",
+    "World Wide Web"
+  ],
+  "people_profiles.txt::0": [
+    "Amelia Earhart",
+    "American",
+    "Atlantic",
+    "Frida Kahlo",
+    "India",
+    "Isaac Newton",
+    "Martin Luther King Jr",
+    "Mexican",
+    "Mother Teresa",
+    "Nelson Mandela",
+    "Nikola Tesla",
+    "South Africa"
+  ],
+  "people_profiles.txt::1": [
+    "Albert Einstein",
+    "Galileo Galilei",
+    "Isaac Newton",
+    "Leonardo",
+    "Renaissance",
+    "Vinci"
+  ],
+  "physics.txt::0": [
+    "Electric",
+    "Energy",
+    "Gravity",
+    "Newton",
+    "Ohm",
+    "Power",
+    "Sound",
+    "Voltage"
+  ],
+  "physics.txt::1": [
+    "Power",
+    "Sound"
+  ],
+  "public_health.txt::0": [
+    "Antibiotic",
+    "Clean",
+    "Excessive",
+    "Handwashing",
+    "Regular",
+    "Sleep",
+    "Smoking",
+    "Vaccination"
+  ],
+  "public_health.txt::1": [
+    "Public",
+    "Sleep"
+  ],
+  "space_missions.txt::0": [
+    "Apollo",
+    "Cassini",
+    "Earth",
+    "Mars",
+    "Moon",
+    "NASA",
+    "Saturn",
+    "Sputnik",
+    "The Hubble Space Telescope",
+    "The International Space Station",
+    "The James Webb Space Telescope",
+    "The Space Shuttle",
+    "Voyager",
+    "Yuri Gagarin"
+  ],
+  "space_physics.txt::0": [
+    "Asteroids",
+    "Comets",
+    "Light",
+    "Planets",
+    "Stars",
+    "Sun",
+    "The Big Bang",
+    "The Sun"
+  ],
+  "sports.txt::0": [
+    "Basketball",
+    "FIFA",
+    "Grand Slam",
+    "London",
+    "The Olympic Games",
+    "Wimbledon",
+    "World Cup"
+  ],
+  "sports_world.txt::0": [
+    "Baseball",
+    "Cricket",
+    "France",
+    "NBA",
+    "National Football League",
+    "North America",
+    "Soccer",
+    "Tennis",
+    "The Masters",
+    "The Olympics",
+    "The Super Bowl",
+    "The Tour",
+    "United States"
+  ],
+  "sports_world.txt::1": [
+    "Formula One",
+    "The Masters"
+  ],
+  "tech.txt::0": [
+    "Apple",
+    "Guido",
+    "Python",
+    "Rossum",
+    "The Linux"
+  ],
+  "tech_history.txt::0": [
+    "ARPANET",
+    "Apple",
+    "Bell Labs",
+    "Internet",
+    "Lee",
+    "Linus Torvalds",
+    "Machine",
+    "Open",
+    "The Linux",
+    "The World Wide Web",
+    "Tim Berners"
+  ],
+  "tech_history.txt::1": [
+    "Cloud",
+    "Databases",
+    "Machine"
+  ],
+  "technology_companies.txt::0": [
+    "Adobe",
+    "CRM",
+    "Facebook",
+    "IBM",
+    "Intel",
+    "Meta Platforms",
+    "NVIDIA",
+    "Netflix",
+    "Oracle",
+    "Salesforce",
+    "Samsung",
+    "Sony"
+  ],
+  "transport_urbanism.txt::0": [
+    "Buses",
+    "Cycling",
+    "High",
+    "Mixed",
+    "Pedestrian",
+    "Public",
+    "Subways",
+    "Urban",
+    "Zoning"
+  ],
+  "transport_urbanism.txt::1": [
+    "Green",
+    "Pedestrian"
+  ],
+  "transportation.txt::0": [
+    "Airplanes",
+    "Airports",
+    "Bicycles",
+    "Cars",
+    "Public",
+    "Seaports",
+    "Ships",
+    "Subways",
+    "Traffic",
+    "Trains"
+  ],
+  "world_history.txt::0": [
+    "Great Britain",
+    "Italy",
+    "Johannes Gutenberg",
+    "Mediterranean Sea",
+    "Soviet Union",
+    "The Berlin Wall",
+    "The Cold War",
+    "The French Revolution",
+    "The Great Depression",
+    "The Industrial Revolution",
+    "The Renaissance",
+    "The Roman Empire",
+    "The United States",
+    "United States"
+  ],
+  "world_history.txt::1": [
+    "The French Revolution",
+    "The Great Depression",
+    "World War"
+  ]
+}

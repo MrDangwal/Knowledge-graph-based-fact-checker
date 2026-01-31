@@ -1,0 +1,10 @@
+A prime number has exactly two positive divisors.
+Zero is neither positive nor negative.
+The sum of angles in a triangle is 180 degrees in Euclidean geometry.
+Pi is approximately 3.14159.
+A right triangle has one 90-degree angle.
+The Pythagorean theorem relates the sides of a right triangle.
+An integer is a whole number that can be negative, zero, or positive.
+A fraction represents a part of a whole.
+A function maps inputs to outputs.
+A set is a collection of distinct elements.

@@ -1,0 +1,10 @@
+Newton's first law describes inertia.
+Newton's second law relates force, mass, and acceleration.
+The speed of light in vacuum is approximately 299,792 kilometers per second.
+Gravity is a force of attraction between masses.
+Electric current is the flow of electric charge.
+Voltage is the electric potential difference between two points.
+Ohm's law states that voltage equals current times resistance.
+Energy can be measured in joules.
+Power is measured in watts.
+Sound is a mechanical wave that requires a medium.

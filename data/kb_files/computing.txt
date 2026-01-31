@@ -1,0 +1,10 @@
+A CPU performs arithmetic and logical operations.
+RAM is volatile memory used for temporary data storage.
+A hard drive provides persistent storage.
+An operating system manages hardware and software resources.
+The TCP/IP protocol suite enables communication on the Internet.
+HTTP is a protocol used for transferring web pages.
+A database index improves query performance.
+Encryption protects data by transforming it into an unreadable form without a key.
+A compiler translates source code into machine code.
+Version control systems track changes to files over time.

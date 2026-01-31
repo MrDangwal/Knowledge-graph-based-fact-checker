@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fact Checker</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <div class="page">
+      <header class="hero">
+        <div>
+          <h1>Local Fact Checker</h1>
+          <p>Upload a knowledge base, check claims, and see evidence-backed highlights.</p>
+        </div>
+        <div class="kb-status" id="kbStatus">
+          <div class="kb-line">KB: <span id="kbCount">0 files</span></div>
+          <div class="kb-line">Chunks: <span id="kbChunks">0</span></div>
+          <div class="kb-line">Model: <span id="kbModel">—</span></div>
+          <div class="kb-line">Indexed: <span id="kbIndexed">—</span></div>
+        </div>
+      </header>
+
+      <section class="panel">
+        <div class="controls">
+          <label class="upload">
+            <input id="kbUpload" type="file" multiple accept=".txt,.zip" />
+            <span>Upload KB (.txt or .zip)</span>
+          </label>
+          <button id="rebuildBtn" class="btn secondary">Rebuild Index</button>
+          <button id="clearBtn" class="btn ghost">Clear KB</button>
+          <div class="mode">
+            <label>
+              <input type="checkbox" id="openaiToggle" />
+              High accuracy (requires API key)
+            </label>
+          </div>
+        </div>
+        <div class="input-area">
+          <textarea id="inputText" placeholder="Paste sentences or paragraphs here..."></textarea>
+          <div class="input-actions">
+            <button id="checkBtn" class="btn primary">Check</button>
+            <button id="copyPlainBtn" class="btn ghost">Copy plain text</button>
+            <button id="downloadBtn" class="btn ghost">Download JSON</button>
+          </div>
+          <div class="hint" id="hint"></div>
+        </div>
+      </section>
+
+      <section class="panel results">
+        <h2>Highlighted Results</h2>
+        <div id="highlighted" class="highlighted"></div>
+      </section>
+
+      <section class="panel results">
+        <h2>Claims & Evidence</h2>
+        <div id="claims"></div>
+      </section>
+    </div>
+
+    <script src="/static/app.js"></script>
+  </body>
+</html>

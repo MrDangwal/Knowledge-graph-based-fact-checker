@@ -1,0 +1,10 @@
+IBM was founded in 1911.
+Intel was founded in 1968.
+Samsung was founded in 1938.
+Sony was founded in 1946.
+Meta Platforms was formerly known as Facebook.
+Netflix is a streaming media company.
+Adobe develops creative software products.
+Salesforce provides cloud-based CRM software.
+Oracle is known for database software.
+NVIDIA designs graphics processing units.

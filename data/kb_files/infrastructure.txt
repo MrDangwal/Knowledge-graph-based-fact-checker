@@ -1,0 +1,10 @@
+Bridges connect landmasses and allow transportation across obstacles like rivers.
+Highways are major roads designed for long-distance travel.
+Railways transport passengers and freight using trains on tracks.
+Ports facilitate the movement of goods and passengers by sea.
+Airports serve as hubs for air travel and cargo transport.
+Water treatment plants remove contaminants to provide safe drinking water.
+Power grids distribute electricity from generators to consumers.
+Telecommunications networks transmit voice and data over long distances.
+Public transit systems include buses, subways, and commuter rail services.
+Urban planning guides land use and development in cities.

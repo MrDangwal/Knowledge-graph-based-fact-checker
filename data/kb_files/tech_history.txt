@@ -1,0 +1,10 @@
+The transistor was invented in 1947 at Bell Labs.
+The first electronic digital computers were developed in the 1940s.
+The ARPANET was an early packet-switching network and a precursor to the Internet.
+The World Wide Web was proposed by Tim Berners-Lee in 1989.
+The iPhone was introduced by Apple in 2007.
+The Linux operating system kernel was created by Linus Torvalds.
+Open-source software allows users to view and modify source code.
+Machine learning is a field of artificial intelligence focused on data-driven models.
+Databases store structured information for retrieval and analysis.
+Cloud computing provides on-demand access to shared computing resources.
